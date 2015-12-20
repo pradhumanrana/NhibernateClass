@@ -275,3 +275,4 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 
+Product/Production/NhibernateClass.v12.suo
