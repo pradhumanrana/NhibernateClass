@@ -45,3 +45,4 @@ Temporary Items
 **/obj
 **/packages
 *.suo
+Product/Production/NhibernateClass.v12.suo
